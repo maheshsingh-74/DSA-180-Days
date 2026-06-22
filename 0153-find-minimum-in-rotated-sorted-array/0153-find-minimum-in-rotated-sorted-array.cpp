@@ -2,6 +2,8 @@ class Solution {
 public:
     int findMin(vector<int>& nums) {
        int n= nums.size();
+       ios_base::sync_with_stdio(false);
+        cin.tie(NULL);
        int l=0,h=n-1;
        while(l<h){
         int mid=l+(h-l)/2;
@@ -9,7 +11,7 @@ public:
         l=mid+1;
         else h=mid;
        }
-       return nums[h];
+       return nums[l];
     }
 };
 
