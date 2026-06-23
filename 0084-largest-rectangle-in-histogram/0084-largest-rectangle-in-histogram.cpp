@@ -1,29 +1,59 @@
 class Solution {
 public:
     int largestRectangleArea(vector<int>& heights) {
-        stack<int> st;
-        int maxArea = 0;
-        int n = heights.size();
+      int n = heights.size();
+        vector<int> left(n);
+        vector<int> right(n);
+        stack<int> s;
+
+        for (int i = n - 1; i >= 0; i--) {
         
-        for (int i = 0; i <= n; i++) {
-           
-            int currentHeight = (i == n) ? 0 : heights[i];
-           
-            while (!st.empty() && currentHeight < heights[st.top()]) {
-                int h = heights[st.top()];
-                st.pop();
-                
-               
-                int w = st.empty() ? i : (i - st.top() - 1);
-                
-                maxArea = max(maxArea, h * w);
+            while (!s.empty() && heights[s.top()] >= heights[i]) {
+                s.pop();
             }
-            st.push(i);
+          
+            if (s.empty()) {
+                right[i] = n;
+            } else {
+                right[i] = s.top();
+            }
+           
+            s.push(i);
         }
+
+        while (!s.empty()) {
+            s.pop();
+        }
+
+        for (int i = 0; i < n; i++) {
+           
+            while (!s.empty() && heights[s.top()] >= heights[i]) {
+                s.pop();
+            }
         
+            if (s.empty()) {
+                left[i] = -1;
+            } else {
+                left[i] = s.top();
+            }
+            
+           
+            s.push(i);
+        }
+
+        int maxArea = 0;
+        for (int i = 0; i < n; i++) {
+          
+            int width = right[i] - left[i] - 1;
+            int currentArea = heights[i] * width;
+            maxArea = max(maxArea, currentArea);
+        }
+
         return maxArea;
     }
 };
+    
+    
 
 // Synced seamlessly with LeetHub Pro
 // Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
