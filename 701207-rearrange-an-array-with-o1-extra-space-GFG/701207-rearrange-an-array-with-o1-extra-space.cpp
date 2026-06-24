@@ -2,14 +2,16 @@
 class Solution {
   public:
     void arrange(vector<long long>& arr) {
-        //  code here
-       vector<long long>temp;
-       for(int i=0;i<arr.size();i++){
-           temp.push_back(arr[i]);
+       int n=arr.size();
+       for(int i=0;i<n;i++){
+           long long x=arr[i];
+           long long y=arr[x];
+           arr[i]=(y%n)*n+x;
        }
-       for(int i=0;i<arr.size();i++){
-           arr[i]=temp[temp[i]];
+       for(int i=0;i<n;i++){
+           arr[i]/=n;
        }
+       
     }
 };
 
