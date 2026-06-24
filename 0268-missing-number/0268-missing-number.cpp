@@ -1,14 +1,9 @@
 class Solution {
 public:
     int missingNumber(vector<int>& nums) {
-        sort(nums.begin(),nums.end());
-        int i=0;
-        while(i<nums.size()){
-            if((nums[i]^i)!=0) 
-                break;
-                i++;
-        }
-        return i;
+       int n=nums.size();
+       int sum=accumulate(nums.begin(),nums.end(),0);
+       return (n*(n+1)/2)-sum;
     }
 };
 
