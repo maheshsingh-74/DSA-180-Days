@@ -7,7 +7,7 @@ class Solution {
          if(arr[i]==0) count++;
          else if(arr[i]==1){
              return count;
-             break;
+            // break;
          }
          else return 0;
      }
