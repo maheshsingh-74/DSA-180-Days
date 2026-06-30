@@ -1,27 +1,20 @@
 class Solution {
 public:
-bool isvowel(char s){
-    return s=='a'|| s=='e'|| s=='i'|| s=='o'|| s=='u'|| s=='A'|| s=='E'|| s=='I'|| s=='O'|| s=='U';
-}
+    bool isvowel(char c) {
+        return c == 'a' || c == 'e' || c == 'i' || c == 'o' || c == 'u' || 
+               c == 'A' || c == 'E' || c == 'I' || c == 'O' || c == 'U';
+    }
+
     bool halvesAreAlike(string s) {
-    int count1=0,count2=0;
-    int n=s.size();
-        string s1="";
-        for(int i=0;i<n/2;i++){
-            s1.push_back(s[i]);
-            
+        int count1 = 0, count2 = 0;
+        int n = s.size();
+        
+        for (int i = 0; i < n / 2; i++) {
+            if (isvowel(s[i])) count1++;        
+            if (isvowel(s[i + n / 2])) count2++; 
         }
-        for(int i=n/2;i<s.size();i++){
-            if(isvowel(s[i])){
-                count1++;
-            }
-        }
-           for(int i=0;i<s1.size();i++){
-            if(isvowel(s[i])){
-                count2++;
-            }
-        }
-return count1==count2;
+        
+        return count1 == count2;
     }
 };
 
