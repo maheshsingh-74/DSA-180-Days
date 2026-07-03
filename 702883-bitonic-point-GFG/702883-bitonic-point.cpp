@@ -5,14 +5,14 @@ class Solution {
         int i=0;
         int j=arr.size()-1;
         int result;
-        while(i<j){
+        while(i<=j){
             int mid = i+(j-i)/2;
             if(arr[mid]>arr[mid-1] && arr[mid]>arr[mid+1]){
                 result=arr[mid];
                 break;
             }
             else if (arr[mid]>arr[mid-1] && arr[mid]<arr[mid+1]) i=mid+1;
-            else j=mid;
+            else j=mid-1;
         }
         return result;
     }
