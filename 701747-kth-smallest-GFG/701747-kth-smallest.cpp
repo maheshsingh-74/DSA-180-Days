@@ -1,15 +1,18 @@
 class Solution {
-  public:
+public:
     int kthSmallest(vector<int> &arr, int k) {
-        // code here
-        sort(arr.begin(),arr.end());
-        int n= -1;
-        while(k--){
-            n++;
-            
-        }
-        return arr[n];
+        // Create a max-heap
+        priority_queue<int> maxHeap;
         
+        for (int num : arr) {
+            maxHeap.push(num);
+            
+            if (maxHeap.size() > k) {
+                maxHeap.pop();
+            }
+        }
+        
+        return maxHeap.top();
     }
 };
 
