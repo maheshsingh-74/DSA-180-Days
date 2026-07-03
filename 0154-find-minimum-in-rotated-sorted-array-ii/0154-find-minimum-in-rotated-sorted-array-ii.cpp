@@ -3,21 +3,24 @@ public:
     int findMin(vector<int>& nums) {
         int l = 0;
         int r = nums.size() - 1;
+        int resultidx = 0;
         
-        while (l < r) {
-            int mid = l + (r - l) / 2;
+        while (l <=r) {
+            if (l<r && nums[l] == nums[l+1]) { l++; continue; }
+            if (l<r && nums[r] == nums[r-1]) { r--; continue; }
             
+            int mid = l + (r - l) / 2;
+            if(nums[mid]<nums[resultidx]) resultidx=mid;
             if (nums[mid] > nums[r]) {
                 l = mid + 1;
-            } else if (nums[mid] < nums[r]) {
-                r = mid;
-            } else {
+            } else  {
+                r = mid-1;
               
-                r--;
-            }
+            } 
+            
         }
         
-        return nums[l];
+        return nums[resultidx];
     }
 };
 
