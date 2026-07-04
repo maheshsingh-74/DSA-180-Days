@@ -4,19 +4,21 @@ ch=tolower(ch);
 return ch=='a'||ch=='e'||ch=='i'||ch=='o'||ch=='u';
 }
     string sortVowels(string s) {
-        string ans="";
-        for(int i=0;i<s.size();i++){
-if(isvowel(s[i])) ans.push_back(s[i]);
-        }
-        sort(ans.begin(),ans.end());
-        int j=0;
-          for(int i=0;i<s.size();i++){
-            if(isvowel(s[i])){
-                s[i]=ans[j];
-                j++;
-            }
-          }
-          return s;
+       unordered_map<char,int>mp;
+       for(char&ch:s){
+        if(isvowel(ch)) mp[ch]++;
+       }
+       string temp="AEIOUaeiou";
+       int j=0;
+       for(int i=0;i<s.length();i++){
+        if(isvowel(s[i])){
+            while(mp[temp[j]]==0) j++;
+        
+        s[i]=temp[j];
+        mp[temp[j]]--;
+       }
+       }
+       return s;
     }
 };
 
