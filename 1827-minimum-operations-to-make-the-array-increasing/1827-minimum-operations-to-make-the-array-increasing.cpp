@@ -1,17 +1,19 @@
 class Solution {
 public:
     int minOperations(vector<int>& nums) {
-     if(nums.size()==1) return 0;
-     int count=0;
-     int n= nums.size();
-     for(int i=1;i<n;i++){
-        if(nums[i]<=nums[i-1]){
-int opr=1+abs(nums[i]-nums[i-1]);
-count+=opr;
-nums[i]=nums[i-1]+1;
+        int operations = 0;
+        int prev = nums[0]; 
+        
+        for (size_t i = 1; i < nums.size(); ++i) {
+            if (nums[i] <= prev) {
+                operations += (prev + 1 - nums[i]);
+                prev = prev + 1;
+            } else {
+                prev = nums[i];
+            }
         }
-     }
-     return count;   
+        
+        return operations;
     }
 };
 
