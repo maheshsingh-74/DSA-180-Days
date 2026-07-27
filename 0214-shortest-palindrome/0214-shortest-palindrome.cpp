@@ -1,13 +1,40 @@
 class Solution {
 public:
-    string shortestPalindrome(string s) {
-        string rev= s;
-        reverse(rev.begin(),rev.end());
-        for(int i=0;i<s.length();i++){
-            if(!memcmp(s.c_str(),rev.c_str()+i,s.length()-i))return rev.substr(0,i)+s;
+   void computeLPSArray(string pat, vector<int>& lps) {
+    int m = pat.length();
+    int len = 0;
+    lps[0] = 0;
+    int i = 1;
+    while (i < m) {
+        if (pat[i] == pat[len]) {
+            len++;
+            lps[i] = len;
+            i++;
+        } else {
+            if (len != 0) {
+                len = lps[len - 1];
+            } else {
+                lps[i] = 0;
+                i++;
+            }
         }
-        return rev+s;
     }
+}
+
+string shortestPalindrome(string s) {
+    string rev = s;
+    reverse(rev.begin(), rev.end());
+    
+    string temp = s + "#" + rev;
+    int n = temp.length();
+    vector<int> lps(n, 0);
+    
+    computeLPSArray(temp, lps);
+    
+    int len = lps[n - 1];
+    string toAdd = rev.substr(0, s.length() - len);
+    return toAdd + s;
+}
 };
 
 // Synced seamlessly with LeetHub Pro
