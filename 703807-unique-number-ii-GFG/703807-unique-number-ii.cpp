@@ -4,18 +4,18 @@ class Solution {
         // Code here.
          vector<int> result;
          int n= nums.size();
-        unordered_map<int,int>mp;
-        for(int i=0;i<n;i++){
-        mp[nums[i]]++;
-    }
-    
-    for(auto &num:nums){
-        if(mp[num]==1){
-            result.push_back(num);
-        }
-    }
-        sort(result.begin(),result.end());
-        return result;
+         sort(nums.begin(),nums.end());
+         int num1,num2;
+         for(int i=0;i<n-1;i++){
+             if(nums[i+1]!=nums[i]){
+                 result.push_back(nums[i]);
+             }    else{
+                     i++;
+                 }
+             
+         }
+         if(result.size()<2)result.push_back(nums[n-1]);
+         return result;
     }
 };
 
