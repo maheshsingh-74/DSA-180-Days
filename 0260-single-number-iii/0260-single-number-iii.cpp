@@ -2,19 +2,18 @@ class Solution {
 public:
     vector<int> singleNumber(vector<int>& nums) {
            vector<int> result;
-         int n= nums.size();
-         sort(nums.begin(),nums.end());
-         int num1,num2;
-         for(int i=0;i<n-1;i++){
-             if(nums[i+1]!=nums[i]){
-                 result.push_back(nums[i]);
-             }    else{
-                     i++;
-                 }
-             
-         }
-         if(result.size()<2)result.push_back(nums[n-1]);
-         return result;
+       //  int n= nums.size();
+        long long xorr=0;
+        for(auto &num : nums) xorr^=num;
+    
+    int g1=0;
+    int g2=0;
+    int mask=(xorr) & (-xorr);
+    for(auto &num:nums ){
+        if(mask & num) g1^=num;
+        else g2^=num;
+    }
+    return {g1,g2};
     }
 };
 
