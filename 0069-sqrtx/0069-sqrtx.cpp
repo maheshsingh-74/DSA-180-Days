@@ -17,7 +17,7 @@ public:
             else
                 start = mid + 1;
         }
-        return (end);
+        return (start)-1;
     }
 };
 
