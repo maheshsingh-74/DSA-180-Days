@@ -9,6 +9,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | ------- |
 | [0001-two-sum](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0169-majority-element) |
+| [0455-assign-cookies](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0455-assign-cookies) |
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/2952-minimum-number-of-coins-to-be-added) |
 ## Hash Table
 |  |
@@ -22,11 +23,13 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0455-assign-cookies) |
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/2952-minimum-number-of-coins-to-be-added) |
 ## Sorting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0169-majority-element) |
+| [0455-assign-cookies](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0455-assign-cookies) |
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/2952-minimum-number-of-coins-to-be-added) |
 ## Divide and Conquer
 |  |
@@ -40,4 +43,12 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0169-majority-element) |
+## Two Pointers
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0455-assign-cookies) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
