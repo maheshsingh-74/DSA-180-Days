@@ -1,14 +1,16 @@
 class Solution {
-public: int find(int stair,int n, vector<int>&dp){
-    if(stair==n)return 1;
-    if(stair==n+1)return 0;
-    if(dp[stair]==-1)
-        dp[stair]=find(stair+1,n,dp)+find(stair+2,n,dp);
-    
-    return dp[stair];
-}
+public:
     int climbStairs(int n) {
-        vector<int>dp(n+2,-1);
-        return find(0,n,dp);
+        if(n<=1)
+        return 1;
+        int a=1;
+        int b=1;
+        int c=0;
+        for(int i=2;i<=n;i++){
+         c=a+b;
+         a=b;
+         b=c;
+        }
+        return c;
     }
 };
