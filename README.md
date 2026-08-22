@@ -60,6 +60,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0509-fibonacci-number) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 ## String
@@ -69,6 +70,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -77,5 +79,6 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
