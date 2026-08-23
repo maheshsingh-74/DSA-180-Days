@@ -1,0 +1,9 @@
+<h2><a href="https://www.geeksforgeeks.org/problems/count-numbers-containing-43022/1">Count Numbers with Digit 4</a></h2><h3>Difficulty Level : Difficulty: Easy</h3><hr><div class="problems_problem_content__Xm_eO" style="--text-color: var(--problem-text-color);"><p><span style="font-size: 18px;">You are given a number <strong>n</strong>, Return the count of total numbers from <strong>1</strong> to <strong>n</strong> containing <strong>4 </strong>as a digit.</span></p>
+<p><span style="font-size: 18px;"><strong>Examples:</strong></span></p>
+<pre><span style="font-size: 18px;"><strong style="font-size: 18px;">Input:</strong> </span><span style="font-size: 18px;">n <strong>= </strong>9</span>
+<span style="font-size: 18px;"><strong><span style="font-size: 18px;">Output:</span> </strong></span><span style="font-size: 18px;">1</span>
+<span style="font-size: 18px;"><strong><span style="font-size: 18px;">Explanation:</span> </strong></span><span style="font-size: 18px;">4 is the only number between 1 to 9 which contains 4 as a digit.</span></pre>
+<pre><span style="font-size: 18px;"><strong><span style="font-size: 18px;">Input:</span> </strong></span><span style="font-size: 18px;">n<strong> = </strong>44</span>
+<span style="font-size: 18px;"><strong><span style="font-size: 18px;">Output:</span> </strong>9</span>
+<span style="font-size: 18px;"><strong><span style="font-size: 18px;">Explanation:</span> </strong>4, 14, 24, 34, 40, 41, 42, 43 &amp; 44, there are total 9 numbers containing 4 as a digit.</span></pre>
+</div><p><span style=font-size:18px><strong>Company Tags : </strong><br><code>Drishti-Soft</code>&nbsp;<br><p><span style=font-size:18px><strong>Topic Tags : </strong><br><code>Dynamic Programming</code>&nbsp;<code>Mathematics</code>&nbsp;
