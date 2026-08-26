@@ -14,6 +14,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | [0322-coin-change](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0455-assign-cookies) |
+| [0474-ones-and-zeroes](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0518-coin-change-ii) |
 | [0605-can-place-flowers](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0605-can-place-flowers) |
@@ -74,6 +75,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 ## String
 |  |
 | ------- |
+| [0474-ones-and-zeroes](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0474-ones-and-zeroes) |
 | [0680-valid-palindrome-ii](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0680-valid-palindrome-ii) |
 ## Dynamic Programming
 |  |
@@ -84,6 +86,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | [0322-coin-change](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0322-coin-change) |
 | [0357-count-numbers-with-unique-digits](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0357-count-numbers-with-unique-digits) |
 | [0416-partition-equal-subset-sum](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0518-coin-change-ii) |
@@ -101,6 +104,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | ------- |
 | [0322-coin-change](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
@@ -121,5 +125,6 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
