@@ -77,6 +77,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 |  |
 | ------- |
 | [0474-ones-and-zeroes](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0474-ones-and-zeroes) |
+| [0583-delete-operation-for-two-strings](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0583-delete-operation-for-two-strings) |
 | [0680-valid-palindrome-ii](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0680-valid-palindrome-ii) |
 | [1143-longest-common-subsequence](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1143-longest-common-subsequence) |
 ## Dynamic Programming
@@ -92,6 +93,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | [0494-target-sum](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0518-coin-change-ii) |
+| [0583-delete-operation-for-two-strings](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0583-delete-operation-for-two-strings) |
 | [0956-tallest-billboard](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0956-tallest-billboard) |
 | [1143-longest-common-subsequence](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1143-longest-common-subsequence) |
 ## Recursion
@@ -140,5 +142,6 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 ## Longest Common Subsequence
 |  |
 | ------- |
+| [0583-delete-operation-for-two-strings](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0583-delete-operation-for-two-strings) |
 | [1143-longest-common-subsequence](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
