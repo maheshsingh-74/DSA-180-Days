@@ -1,0 +1,11 @@
+<h2><a href="https://www.geeksforgeeks.org/problems/print-all-lcs-sequences3413/1">All Longest Common Subsequences</a></h2><h3>Difficulty Level : Difficulty: Hard</h3><hr><div class="problems_problem_content__Xm_eO" style="--text-color: var(--problem-text-color);"><p><span style="font-size: 18px;">Given two strings <strong>s1</strong> and <strong>s2</strong>, return all <strong>distinct Longest Common Subsequences </strong>(LCS) in lexicographical order.</span></p>
+<p><strong><span style="font-size: 18px;">Note:</span></strong><span style="font-size: 18px;"> </span><span style="font-size: 18px;">A subsequence is derived from another string by deleting some or none of the elements without changing the order of the remaining elements.</span></p>
+<p><span style="font-size: 18px;"><strong>Examples:</strong></span></p>
+<pre><span style="font-size: 18px;"><strong>Input:</strong> s1 = "abaaa", s2 = "baabaca"
+<strong>Output: </strong>["aaaa", "abaa", "baaa"]<br><strong>Explanation: </strong>Length of lcs is 4, in lexicographical order they are "aaaa", "abaa", "baaa".</span>
+</pre>
+<pre><span style="font-size: 18px;"><strong>Input:</strong> s1 = "aaa", s2 = "a"
+<strong>Output: </strong>["a"]<br><strong style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;">Explanation: </strong>Length of lcs is 1 and it is "a".</span></pre>
+<pre><span style="font-size: 18px;"><strong>Input:</strong> s1 = "geeksforgeeks", s2 = "abcd"
+<strong>Output: </strong>[]<br><strong style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;">Explanation: </strong>There is no common subsequence present in both strings.</span></pre>
+<p><span style="font-size: 18px;"><strong>Constraints:</strong><br>1 ≤ s1.size(), s2.size() ≤ 50<br>s1 and s2 contain only <strong>lowercase</strong> English letters.</span></p></div><br><p><span style=font-size:18px><strong>Topic Tags : </strong><br><code>Dynamic Programming</code>&nbsp;<code>Backtracking</code>&nbsp;
