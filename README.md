@@ -78,6 +78,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | ------- |
 | [0474-ones-and-zeroes](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0474-ones-and-zeroes) |
 | [0680-valid-palindrome-ii](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0680-valid-palindrome-ii) |
+| [1143-longest-common-subsequence](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1143-longest-common-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -92,6 +93,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | [0509-fibonacci-number](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0518-coin-change-ii) |
 | [0956-tallest-billboard](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0956-tallest-billboard) |
+| [1143-longest-common-subsequence](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1143-longest-common-subsequence) |
 ## Recursion
 |  |
 | ------- |
@@ -135,4 +137,8 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 |  |
 | ------- |
 | [0956-tallest-billboard](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0956-tallest-billboard) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
