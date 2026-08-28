@@ -38,6 +38,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | [0605-can-place-flowers](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0680-valid-palindrome-ii) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/2193-minimum-number-of-moves-to-make-palindrome) |
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/2952-minimum-number-of-coins-to-be-added) |
 ## Sorting
 |  |
@@ -63,6 +64,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | [0455-assign-cookies](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0455-assign-cookies) |
 | [0647-palindromic-substrings](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0680-valid-palindrome-ii) |
+| [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/2193-minimum-number-of-moves-to-make-palindrome) |
 ## Quicksort
 |  |
 | ------- |
@@ -85,6 +87,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | [0680-valid-palindrome-ii](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0680-valid-palindrome-ii) |
 | [1143-longest-common-subsequence](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/2193-minimum-number-of-moves-to-make-palindrome) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -153,4 +156,8 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | ------- |
 | [0583-delete-operation-for-two-strings](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0583-delete-operation-for-two-strings) |
 | [1143-longest-common-subsequence](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1143-longest-common-subsequence) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/2193-minimum-number-of-moves-to-make-palindrome) |
 <!---LeetCode Topics End-->
