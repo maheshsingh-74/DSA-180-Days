@@ -1,7 +1,6 @@
 class Solution {
 public:
     int n;
-    int t[1001][1001];
     bool ispred(string s1, string s2) {
         int a = s2.length();
         int b = s1.length();
@@ -15,27 +14,22 @@ public:
         }
         return x==a;
     }
-    int lis(vector<string>& words, int i, int p) {
-        if (i >= n)
-            return 0;
-            
-            if(p!=-1 && t[i][p]!=-1)return t[i][p];
-        int taken=0;
-        if (p == -1 || ispred(words[i], words[p])) {
-            taken = 1 + lis(words, i + 1, i);
-        }
-        int skip = lis(words, i + 1, p);
-        if(p!=-1)
-        return t[i][p]= max(taken, skip);
-    return max(taken, skip);
-    }
     static bool comp(string& w1, string& w2) {
         return w1.length() < w2.length();
     }
     int longestStrChain(vector<string>& words) {
         n = words.size();
-        memset(t,-1,sizeof(t));
+        vector<int>t(n,1);
         sort(words.begin(), words.end(), comp);
-        return lis(words, 0, -1);
+        int maxLIS=1;
+        for(int i=0;i<n;i++){
+            for(int j=0;j<i;j++){
+                if(ispred(words[i],words[j])){
+                    t[i]=max(t[i],t[j]+1);
+                    maxLIS=max(maxLIS,t[i]);
+                }
+            }
+        }
+        return maxLIS;
     }
 };
