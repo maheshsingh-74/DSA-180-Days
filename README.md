@@ -11,6 +11,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0169-majority-element) |
+| [0300-longest-increasing-subsequence](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0455-assign-cookies) |
@@ -98,6 +99,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | [0072-edit-distance](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0322-coin-change) |
 | [0357-count-numbers-with-unique-digits](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0357-count-numbers-with-unique-digits) |
 | [0416-partition-equal-subset-sum](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0416-partition-equal-subset-sum) |
@@ -166,5 +168,10 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 ## Binary Search
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0300-longest-increasing-subsequence) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
