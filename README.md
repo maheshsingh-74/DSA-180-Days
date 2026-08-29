@@ -195,4 +195,5 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | ------- |
 | [0180-consecutive-numbers](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0180-consecutive-numbers) |
 | [0610-triangle-judgement](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0610-triangle-judgement) |
+| [1164-product-price-at-a-given-date](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1164-product-price-at-a-given-date) |
 <!---LeetCode Topics End-->
