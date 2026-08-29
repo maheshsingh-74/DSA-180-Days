@@ -190,4 +190,8 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 |  |
 | ------- |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
+## Database
+|  |
+| ------- |
+| [0610-triangle-judgement](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0610-triangle-judgement) |
 <!---LeetCode Topics End-->
