@@ -193,5 +193,6 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 ## Database
 |  |
 | ------- |
+| [0180-consecutive-numbers](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0180-consecutive-numbers) |
 | [0610-triangle-judgement](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0610-triangle-judgement) |
 <!---LeetCode Topics End-->
