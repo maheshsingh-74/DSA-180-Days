@@ -24,6 +24,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | [1048-longest-string-chain](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1048-longest-string-chain) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/2952-minimum-number-of-coins-to-be-added) |
 ## Hash Table
 |  |
@@ -44,6 +45,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | [0646-maximum-length-of-pair-chain](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0646-maximum-length-of-pair-chain) |
 | [0680-valid-palindrome-ii](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0680-valid-palindrome-ii) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/2193-minimum-number-of-moves-to-make-palindrome) |
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/2952-minimum-number-of-coins-to-be-added) |
 ## Sorting
