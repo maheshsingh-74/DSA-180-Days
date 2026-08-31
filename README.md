@@ -36,6 +36,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 |  |
 | ------- |
 | [0328-odd-even-linked-list](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0328-odd-even-linked-list) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Greedy
 |  |
 | ------- |
