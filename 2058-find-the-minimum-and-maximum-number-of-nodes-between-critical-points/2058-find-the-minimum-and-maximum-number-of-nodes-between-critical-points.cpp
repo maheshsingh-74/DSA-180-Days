@@ -10,40 +10,31 @@
  */
 class Solution {
 public:
-    static vector<int> nodesBetweenCriticalPoints(ListNode* head) {
-        vector<int> pos;
-        int i=1;
-        int x0=head->val, x1=head->next->val;
-        bool less=x1<x0, bigger=x1>x0;
-        for(ListNode* Next=head->next->next; Next; i++, Next=Next->next){
-            int x=Next->val;
-            bool bigger1=x>x1, less1=x<x1;
-            if((less && bigger1)||(bigger && less1)){
-                pos.push_back(i);
-            //    cout<<i<<",";
+    vector<int> nodesBetweenCriticalPoints(ListNode* head) {
+        vector<int> criticalpoints;
+        ListNode* prev = head;
+        ListNode* curr = head->next;
+        int i = 1;
+
+        while (curr->next != nullptr) {
+            bool isMax = curr->val > prev->val && curr->val > curr->next->val;
+            bool isMin = curr->val < prev->val && curr->val < curr->next->val;
+            if (isMax || isMin) {
+                criticalpoints.push_back(i);
             }
-            bigger=bigger1;
-            less=less1;
-            x1=x;
+            prev = curr;
+            curr = curr->next;
+            i++;
         }
-        int sz=pos.size();
-        if (sz<=1) return {-1, -1};
-        else{
-            int maxD=pos.back()-pos[0];
-            int minD=INT_MAX;
-            for(int i=0; i<sz-1; i++)
-                minD=min(minD, pos[i+1]-pos[i]);
-            return {minD, maxD};
+
+        if (criticalpoints.size() < 2) return {-1, -1};
+
+        int minDist = INT_MAX;
+        for (int j = 1; j < (int)criticalpoints.size(); j++) {
+            minDist = min(minDist, criticalpoints[j] - criticalpoints[j - 1]);
         }
+        int maxDist = criticalpoints.back() - criticalpoints.front();
+
+        return {minDist, maxDist};
     }
 };
-
-
-
-
-auto init = []() {
-    ios::sync_with_stdio(0);
-    cin.tie(0);
-    cout.tie(0);
-    return 'c';
-}();
