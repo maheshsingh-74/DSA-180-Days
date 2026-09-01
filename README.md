@@ -26,12 +26,14 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/2952-minimum-number-of-coins-to-be-added) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0169-majority-element) |
 | [1048-longest-string-chain](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1048-longest-string-chain) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Linked List
 |  |
 | ------- |
@@ -159,6 +161,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0322-coin-change) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## 0-1 Knapsack
 |  |
 | ------- |
@@ -200,4 +203,12 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | [0610-triangle-judgement](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0610-triangle-judgement) |
 | [1164-product-price-at-a-given-date](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1164-product-price-at-a-given-date) |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1204-last-person-to-fit-in-the-bus) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Matrix
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 <!---LeetCode Topics End-->
