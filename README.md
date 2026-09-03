@@ -96,6 +96,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | [0357-count-numbers-with-unique-digits](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0357-count-numbers-with-unique-digits) |
 | [0509-fibonacci-number](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0509-fibonacci-number) |
 | [0587-erect-the-fence](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0587-erect-the-fence) |
+| [0837-new-21-game](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0837-new-21-game) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 ## String
 |  |
@@ -129,6 +130,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | [0583-delete-operation-for-two-strings](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0583-delete-operation-for-two-strings) |
 | [0646-maximum-length-of-pair-chain](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0646-maximum-length-of-pair-chain) |
 | [0647-palindromic-substrings](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0647-palindromic-substrings) |
+| [0837-new-21-game](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0837-new-21-game) |
 | [0956-tallest-billboard](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0956-tallest-billboard) |
 | [1048-longest-string-chain](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1048-longest-string-chain) |
 | [1143-longest-common-subsequence](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1143-longest-common-subsequence) |
@@ -240,4 +242,12 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0319-bulb-switcher) |
+## Sliding Window
+|  |
+| ------- |
+| [0837-new-21-game](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0837-new-21-game) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0837-new-21-game](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0837-new-21-game) |
 <!---LeetCode Topics End-->
