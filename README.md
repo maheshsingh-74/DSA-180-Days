@@ -92,6 +92,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | [0070-climbing-stairs](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0263-ugly-number) |
+| [0319-bulb-switcher](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0319-bulb-switcher) |
 | [0357-count-numbers-with-unique-digits](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0357-count-numbers-with-unique-digits) |
 | [0509-fibonacci-number](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0509-fibonacci-number) |
 | [0587-erect-the-fence](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0587-erect-the-fence) |
@@ -235,4 +236,8 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0258-add-digits) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
