@@ -69,6 +69,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0169-majority-element) |
+| [0372-super-pow](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0372-super-pow) |
 ## Counting
 |  |
 | ------- |
@@ -99,6 +100,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | [0263-ugly-number](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0263-ugly-number) |
 | [0319-bulb-switcher](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0319-bulb-switcher) |
 | [0357-count-numbers-with-unique-digits](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0357-count-numbers-with-unique-digits) |
+| [0372-super-pow](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0372-super-pow) |
 | [0509-fibonacci-number](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0509-fibonacci-number) |
 | [0587-erect-the-fence](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0587-erect-the-fence) |
 | [0837-new-21-game](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0837-new-21-game) |
@@ -264,4 +266,12 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 |  |
 | ------- |
 | [3872-longest-arithmetic-sequence-after-changing-at-most-one-element](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/3872-longest-arithmetic-sequence-after-changing-at-most-one-element) |
+## Euler's Totient Function
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0372-super-pow) |
+## Euler's Theorem
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0372-super-pow) |
 <!---LeetCode Topics End-->
