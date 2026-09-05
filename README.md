@@ -103,6 +103,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1232-check-if-it-is-a-straight-line) |
 | [3870-count-commas-in-range](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/3870-count-commas-in-range) |
+| [3871-count-commas-in-range-ii](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/3871-count-commas-in-range-ii) |
 ## String
 |  |
 | ------- |
