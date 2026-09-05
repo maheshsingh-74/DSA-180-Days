@@ -93,6 +93,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0263-ugly-number) |
@@ -146,6 +147,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
