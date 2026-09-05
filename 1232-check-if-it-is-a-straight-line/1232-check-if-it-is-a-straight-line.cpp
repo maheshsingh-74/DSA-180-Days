@@ -9,7 +9,7 @@ public:
         for(int i=2;i<coordinates.size();i++){
             int x = coordinates[i][0];
             int y = coordinates[i][1];
-            if((y2 - y1) * (x1 - x) != (y1 - y) * (x2 - x1))
+            if((y2 - y1) * (x2 - x) != (y2 - y) * (x2 - x1))
                 return false;
         }
         return true; 
