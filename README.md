@@ -30,6 +30,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/2952-minimum-number-of-coins-to-be-added) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3872-longest-arithmetic-sequence-after-changing-at-most-one-element](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/3872-longest-arithmetic-sequence-after-changing-at-most-one-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -257,4 +258,8 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 |  |
 | ------- |
 | [0837-new-21-game](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0837-new-21-game) |
+## Enumeration
+|  |
+| ------- |
+| [3872-longest-arithmetic-sequence-after-changing-at-most-one-element](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/3872-longest-arithmetic-sequence-after-changing-at-most-one-element) |
 <!---LeetCode Topics End-->
