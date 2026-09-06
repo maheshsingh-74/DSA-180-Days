@@ -8,6 +8,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0001-two-sum) |
+| [0045-jump-game-ii](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -51,6 +52,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0435-non-overlapping-intervals](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0435-non-overlapping-intervals) |
@@ -134,6 +136,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0072-edit-distance) |
