@@ -1,22 +1,22 @@
 class Solution {
 public:
-    unordered_map<int,int> memo; // 1 = true, -1 = false
+    int n;
 
-    bool solve(vector<int>& arr, int i, vector<int>& visited) {
-        int n = arr.size();
-        if (i < 0 || i >= n || visited[i]) return false;   // out of bounds or already tried
-        if (arr[i] == 0) return true;                      // reached a zero!
-        if (memo.count(i)) return memo[i] == 1;             // already computed
+    bool dfs(vector<int>& arr, int i) {
+        if(i < 0 || i >= n || arr[i] < 0) {
+            return false;
+        }
+        if(arr[i] == 0)
+            return true;
 
-        visited[i] = 1;                                     // mark as being explored (this run)
-        bool res = solve(arr, i + arr[i], visited) ||
-                   solve(arr, i - arr[i], visited);
-        memo[i] = res ? 1 : -1;                              // store result
-        return res;
+        arr[i] *= -1;
+        int left  = dfs(arr, i - arr[i]);
+        int right = dfs(arr, i + arr[i]);
+        return left || right;
     }
 
     bool canReach(vector<int>& arr, int start) {
-        vector<int> visited(arr.size(), 0);
-        return solve(arr, start, visited);
+        n = arr.size();
+        return dfs(arr, start);
     }
 };
