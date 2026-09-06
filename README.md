@@ -8,6 +8,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0001-two-sum) |
+| [0056-merge-intervals](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0169-majority-element) |
@@ -60,6 +61,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0169-majority-element) |
 | [0455-assign-cookies](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0455-assign-cookies) |
 | [0646-maximum-length-of-pair-chain](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0646-maximum-length-of-pair-chain) |
@@ -92,6 +94,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0455-assign-cookies) |
 ## Math
 |  |
