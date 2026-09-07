@@ -11,6 +11,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | [0045-jump-game-ii](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0056-merge-intervals) |
+| [0063-unique-paths-ii](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0063-unique-paths-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0169-majority-element) |
@@ -141,6 +142,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | [0045-jump-game-ii](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -250,6 +252,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0063-unique-paths-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Geometry
 |  |
