@@ -108,6 +108,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0263-ugly-number) |
@@ -139,6 +140,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | ------- |
 | [0045-jump-game-ii](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -298,4 +300,8 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 |  |
 | ------- |
 | [1306-jump-game-iii](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1306-jump-game-iii) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
