@@ -15,6 +15,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0217-contains-duplicate) |
 | [0300-longest-increasing-subsequence](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0416-partition-equal-subset-sum) |
@@ -44,6 +45,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | ------- |
 | [0001-two-sum](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0217-contains-duplicate) |
 | [1048-longest-string-chain](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1048-longest-string-chain) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Linked List
@@ -71,6 +73,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | ------- |
 | [0056-merge-intervals](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0217-contains-duplicate) |
 | [0435-non-overlapping-intervals](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0455-assign-cookies) |
 | [0646-maximum-length-of-pair-chain](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0646-maximum-length-of-pair-chain) |
