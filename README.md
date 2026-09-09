@@ -46,6 +46,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | [0001-two-sum](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0217-contains-duplicate) |
+| [0387-first-unique-character-in-a-string](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0387-first-unique-character-in-a-string) |
 | [1048-longest-string-chain](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1048-longest-string-chain) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Linked List
@@ -90,6 +91,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0387-first-unique-character-in-a-string) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -131,6 +133,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | ------- |
 | [0072-edit-distance](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0115-distinct-subsequences) |
+| [0387-first-unique-character-in-a-string](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0387-first-unique-character-in-a-string) |
 | [0474-ones-and-zeroes](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0583-delete-operation-for-two-strings) |
@@ -314,4 +317,8 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0062-unique-paths) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
