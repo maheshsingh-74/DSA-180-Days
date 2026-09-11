@@ -28,6 +28,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | [0518-coin-change-ii](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0518-coin-change-ii) |
 | [0587-erect-the-fence](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0587-erect-the-fence) |
 | [0605-can-place-flowers](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0605-can-place-flowers) |
+| [0621-task-scheduler](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0621-task-scheduler) |
 | [0646-maximum-length-of-pair-chain](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0646-maximum-length-of-pair-chain) |
 | [0956-tallest-billboard](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0956-tallest-billboard) |
 | [1048-longest-string-chain](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1048-longest-string-chain) |
@@ -52,6 +53,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | [0347-top-k-frequent-elements](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0621-task-scheduler) |
 | [1048-longest-string-chain](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1048-longest-string-chain) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Linked List
@@ -68,6 +70,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | [0435-non-overlapping-intervals](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0605-can-place-flowers) |
+| [0621-task-scheduler](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0621-task-scheduler) |
 | [0646-maximum-length-of-pair-chain](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0646-maximum-length-of-pair-chain) |
 | [0680-valid-palindrome-ii](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0680-valid-palindrome-ii) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
@@ -85,6 +88,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | [0435-non-overlapping-intervals](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0621-task-scheduler) |
 | [0646-maximum-length-of-pair-chain](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0646-maximum-length-of-pair-chain) |
 | [1048-longest-string-chain](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1048-longest-string-chain) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -103,6 +107,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | [0347-top-k-frequent-elements](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0621-task-scheduler) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -339,6 +344,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0621-task-scheduler) |
 ## Bucket Sort
 |  |
 | ------- |
