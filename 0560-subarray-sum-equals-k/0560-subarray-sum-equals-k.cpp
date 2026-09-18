@@ -1,23 +1,18 @@
 class Solution {
 public:
     int subarraySum(vector<int>& nums, int k) {
-        int n = nums.size();
+        int count = 0;
         unordered_map<int, int> mp;
         mp[0] = 1;
-        int sum = 0;
-        int count = 0;
-        for (int i = 0; i < n; i++) {
-            sum += nums[i];
-            if (mp.find(sum - k) != mp.end()) {
-                count += mp[sum - k];
-            }
+        int prefix_sum = 0;
+        for (int i = 0; i < nums.size(); i++) {
+            prefix_sum += nums[i];
 
-            mp[sum]++;
-        }
-        return count;
+            if (mp.find(prefix_sum-k) != mp.end()) {
+                count += mp[prefix_sum-k];
+            }
+            mp[prefix_sum]++;
+            }    return count;
+        
     }
 };
-
-// Synced seamlessly with LeetHub Pro
-// Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
-// Get it here: https://chromewebstore.google.com/detail/bcilpkkbokcopmabingnndookdogmbna
