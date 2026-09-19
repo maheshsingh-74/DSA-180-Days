@@ -154,6 +154,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | [0837-new-21-game](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0837-new-21-game) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3870-count-commas-in-range](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/3871-count-commas-in-range-ii) |
 ## String
@@ -303,6 +304,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | ------- |
 | [0587-erect-the-fence](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0587-erect-the-fence) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Convex Hull
 |  |
 | ------- |
