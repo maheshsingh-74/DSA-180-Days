@@ -152,6 +152,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | [0509-fibonacci-number](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0509-fibonacci-number) |
 | [0587-erect-the-fence](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0587-erect-the-fence) |
 | [0837-new-21-game](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0837-new-21-game) |
+| [1103-distribute-candies-to-people](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1103-distribute-candies-to-people) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -318,6 +319,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0258-add-digits) |
+| [1103-distribute-candies-to-people](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1103-distribute-candies-to-people) |
 | [3498-reverse-degree-of-a-string](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/3498-reverse-degree-of-a-string) |
 ## Number Theory
 |  |
