@@ -43,6 +43,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | [2094-finding-3-digit-even-numbers](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/2094-finding-3-digit-even-numbers) |
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/2952-minimum-number-of-coins-to-be-added) |
 | [3483-unique-3-digit-even-numbers](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/3483-unique-3-digit-even-numbers) |
+| [3524-find-x-value-of-array-i](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/3524-find-x-value-of-array-i) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3872-longest-arithmetic-sequence-after-changing-at-most-one-element](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/3872-longest-arithmetic-sequence-after-changing-at-most-one-element) |
 | [3903-smallest-stable-index-i](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/3903-smallest-stable-index-i) |
@@ -158,6 +159,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | [1232-check-if-it-is-a-straight-line](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1401-circle-and-rectangle-overlapping) |
 | [2591-distribute-money-to-maximum-children](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/2591-distribute-money-to-maximum-children) |
+| [3524-find-x-value-of-array-i](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/3524-find-x-value-of-array-i) |
 | [3870-count-commas-in-range](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/3871-count-commas-in-range-ii) |
 ## String
@@ -212,6 +214,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | [1143-longest-common-subsequence](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
+| [3524-find-x-value-of-array-i](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/3524-find-x-value-of-array-i) |
 ## Recursion
 |  |
 | ------- |
