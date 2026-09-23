@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/find-followers-count">1729. Find Followers Count</a></h2><h3>Easy</h3><hr><p>Table: <code>Followers</code></p>
+<h2><a href="https://leetcode.com/problems/find-followers-count">1877. Find Followers Count</a></h2><h3>Easy</h3><hr><p>Table: <code>Followers</code></p>
 
 <pre>
 +-------------+------+
