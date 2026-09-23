@@ -299,6 +299,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | [1164-product-price-at-a-given-date](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1164-product-price-at-a-given-date) |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1204-last-person-to-fit-in-the-bus) |
 | [1321-restaurant-growth](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1321-restaurant-growth) |
+| [1729-find-followers-count](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1729-find-followers-count) |
 ## Bit Manipulation
 |  |
 | ------- |
