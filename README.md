@@ -72,6 +72,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0142-linked-list-cycle-ii](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0142-linked-list-cycle-ii) |
+| [0234-palindrome-linked-list](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0328-odd-even-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Greedy
@@ -134,6 +135,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0142-linked-list-cycle-ii](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0142-linked-list-cycle-ii) |
+| [0234-palindrome-linked-list](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0234-palindrome-linked-list) |
 | [0455-assign-cookies](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0455-assign-cookies) |
 | [0647-palindromic-substrings](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0680-valid-palindrome-ii) |
@@ -224,6 +226,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0050-powx-n) |
+| [0234-palindrome-linked-list](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0509-fibonacci-number) |
 | [2094-finding-3-digit-even-numbers](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/3483-unique-3-digit-even-numbers) |
@@ -400,4 +403,8 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0142-linked-list-cycle-ii) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
