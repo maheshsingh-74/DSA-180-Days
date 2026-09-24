@@ -54,6 +54,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | [0001-two-sum](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0128-longest-consecutive-sequence) |
+| [0142-linked-list-cycle-ii](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0347-top-k-frequent-elements) |
@@ -69,6 +70,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 ## Linked List
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0142-linked-list-cycle-ii) |
 | [0328-odd-even-linked-list](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0328-odd-even-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Greedy
@@ -129,6 +131,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 ## Two Pointers
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0142-linked-list-cycle-ii) |
 | [0455-assign-cookies](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0455-assign-cookies) |
 | [0647-palindromic-substrings](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0680-valid-palindrome-ii) |
@@ -391,4 +394,8 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0128-longest-consecutive-sequence) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
