@@ -14,9 +14,9 @@ public:
         ListNode dummy(0, head);
         ListNode* prev = &dummy;
 
-        int count = 0;
+        int count = 1;
         ListNode* cur = head;
-        while (cur) {
+        while (cur->next) {
             count++;
             cur = cur->next;
         }
