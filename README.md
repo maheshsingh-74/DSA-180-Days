@@ -82,6 +82,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | [0045-jump-game-ii](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0402-remove-k-digits](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0605-can-place-flowers) |
@@ -178,6 +179,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | [0072-edit-distance](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0115-distinct-subsequences) |
 | [0387-first-unique-character-in-a-string](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0387-first-unique-character-in-a-string) |
+| [0402-remove-k-digits](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0451-sort-characters-by-frequency) |
 | [0474-ones-and-zeroes](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0516-longest-palindromic-subsequence) |
@@ -409,4 +411,9 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0402-remove-k-digits) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
