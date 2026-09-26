@@ -176,6 +176,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0115-distinct-subsequences) |
 | [0387-first-unique-character-in-a-string](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0387-first-unique-character-in-a-string) |
