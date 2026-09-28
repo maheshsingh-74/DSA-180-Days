@@ -1,22 +1,17 @@
 class MyCalendar {
-public:set<pair<int,int>>st;
+public: vector<pair<int,int>> events;
     MyCalendar() {
         
     }
     
     bool book(int startTime, int endTime) {
-        auto it=st.lower_bound({startTime,endTime});
-        if(it!=st.end() && it->first <endTime){
-            return false ;
-        }
-        if(it!=st.begin()){
-            auto prevIT=prev(it);
-            if(startTime<prevIT->second){
+       for(auto& e : events){
+            if(startTime < e.second && e.first < endTime){
                 return false;
             }
         }
-        st.insert({startTime,endTime});
-        return true;
+        events.push_back({startTime, endTime});
+        return true;  
     }
 };
 
