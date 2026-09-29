@@ -44,6 +44,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | [1306-jump-game-iii](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1306-jump-game-iii) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1712-ways-to-split-array-into-three-subarrays](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1712-ways-to-split-array-into-three-subarrays) |
 | [1991-find-the-middle-index-in-array](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1991-find-the-middle-index-in-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/2094-finding-3-digit-even-numbers) |
@@ -152,6 +153,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | [0680-valid-palindrome-ii](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0680-valid-palindrome-ii) |
 | [1048-longest-string-chain](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1048-longest-string-chain) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1712-ways-to-split-array-into-three-subarrays](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1712-ways-to-split-array-into-three-subarrays) |
 | [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/2193-minimum-number-of-moves-to-make-palindrome) |
 ## Quicksort
 |  |
@@ -302,6 +304,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | [0729-my-calendar-i](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0731-my-calendar-ii) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1712-ways-to-split-array-into-three-subarrays](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1712-ways-to-split-array-into-three-subarrays) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
@@ -314,6 +317,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | [0724-find-pivot-index](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0724-find-pivot-index) |
 | [0731-my-calendar-ii](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0731-my-calendar-ii) |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
+| [1712-ways-to-split-array-into-three-subarrays](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1712-ways-to-split-array-into-three-subarrays) |
 | [1991-find-the-middle-index-in-array](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1991-find-the-middle-index-in-array) |
 | [2270-number-of-ways-to-split-array](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/2270-number-of-ways-to-split-array) |
 | [3903-smallest-stable-index-i](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/3903-smallest-stable-index-i) |
