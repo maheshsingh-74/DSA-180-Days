@@ -1,25 +1,16 @@
 class Solution {
 public:
     int maxProduct(vector<int>& nums) {
-        int prefix = 1;
-        int suffix = 1;
-        int n = nums.size();
-        int max_prod = INT_MIN;
-        for (int i = 0; i < n; i++) {
-
-            if (prefix == 0)
-                prefix = 1;
-            if (suffix == 0)
-                suffix = 1;
-            prefix = prefix * nums[i];
-            suffix = suffix * nums[n - i - 1];
-
-            max_prod = max({max_prod, suffix, prefix});
+        long long pre=1,suff=1;
+        long long ans= LLONG_MIN;
+        int n= nums.size();
+        for(int i=0;i<nums.size();i++){
+            if(pre==0)pre=1;
+            if(suff==0)suff=1;
+            pre*=nums[i];
+            suff*=nums[n-i-1];
+            ans=max({ans,pre,suff});
         }
-        return max_prod;
+        return (int)ans;
     }
 };
-
-// Synced seamlessly with LeetHub Pro
-// Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
-// Get it here: https://chromewebstore.google.com/detail/bcilpkkbokcopmabingnndookdogmbna
