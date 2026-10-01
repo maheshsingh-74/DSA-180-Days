@@ -13,6 +13,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | [0055-jump-game](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0063-unique-paths-ii) |
+| [0075-sort-colors](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0128-longest-consecutive-sequence) |
@@ -109,6 +110,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | ------- |
 | [0049-group-anagrams](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0347-top-k-frequent-elements) |
@@ -147,6 +149,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0075-sort-colors](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0075-sort-colors) |
 | [0142-linked-list-cycle-ii](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0234-palindrome-linked-list) |
@@ -161,6 +164,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0455-assign-cookies) |
 ## Math
 |  |
@@ -455,4 +459,8 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | ------- |
 | [0729-my-calendar-i](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0731-my-calendar-ii) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
