@@ -8,6 +8,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0031-next-permutation) |
 | [0045-jump-game-ii](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0049-group-anagrams) |
@@ -91,6 +92,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -153,6 +155,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0075-sort-colors) |
