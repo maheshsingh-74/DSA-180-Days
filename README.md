@@ -23,6 +23,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0347-top-k-frequent-elements) |
@@ -162,6 +163,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | [0142-linked-list-cycle-ii](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0455-assign-cookies) |
 | [0647-palindromic-substrings](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0680-valid-palindrome-ii) |
