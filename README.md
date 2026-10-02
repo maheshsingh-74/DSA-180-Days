@@ -8,6 +8,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0001-two-sum) |
+| [0031-next-permutation](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0031-next-permutation) |
 | [0045-jump-game-ii](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0055-jump-game) |
@@ -149,6 +150,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0031-next-permutation](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0075-sort-colors) |
 | [0142-linked-list-cycle-ii](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0167-two-sum-ii-input-array-is-sorted) |
