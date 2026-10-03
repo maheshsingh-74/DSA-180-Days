@@ -1,43 +1,26 @@
 class Solution {
 public:
     vector<vector<int>> threeSum(vector<int>& nums) {
-        vector<vector<int>> result;
-        int n = nums.size();
-        
-        sort(nums.begin(), nums.end());
-
-        for (int k = 0; k < n - 2; ++k) {
-            if (k > 0 && nums[k] == nums[k - 1]) continue;
-
-            if (nums[k] > 0) break;
-
-            int target = -nums[k];
-            int i = k + 1;
-            int j = n - 1;
-
-            while (i < j) {
-                int sum = nums[i] + nums[j];
-
-                if (sum < target) {
-                    i++;
-                } else if (sum > target) {
-                    j--;
-                } else {
-                    result.push_back({nums[k], nums[i], nums[j]});
-
-                    while (i < j && nums[i] == nums[i + 1]) i++;
-                    while (i < j && nums[j] == nums[j - 1]) j--;
-
-                    i++;
-                    j--;
-                }
+       sort(begin(nums),end(nums));
+       vector<vector<int>>ans;
+       int n= nums.size();
+       for(int i=0;i<n-2;i++){
+       if(i>0 && nums[i]==nums[i-1]) continue;
+        int j=i+1;
+        int k=n-1;
+        while(j<k){
+            int sum=nums[i]+nums[j]+nums[k];
+            if(sum<0)j++;
+            else if(sum>0)k--;
+            else {
+                ans.push_back({nums[i],nums[j],nums[k]});
+                j++;
+                k--;
+                while(j<k && nums[j]==nums[j-1])j++;
+                while(j<k && nums[k]==nums[k+1])k--;
             }
         }
-
-        return result;
+       } 
+       return ans;
     }
 };
-
-// Synced seamlessly with LeetHub Pro
-// Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
-// Get it here: https://chromewebstore.google.com/detail/bcilpkkbokcopmabingnndookdogmbna
