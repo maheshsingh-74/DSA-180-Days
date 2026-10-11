@@ -58,6 +58,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | [2094-finding-3-digit-even-numbers](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/2094-finding-3-digit-even-numbers) |
 | [2270-number-of-ways-to-split-array](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/2270-number-of-ways-to-split-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/2952-minimum-number-of-coins-to-be-added) |
 | [3394-check-if-grid-can-be-cut-into-sections](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/3394-check-if-grid-can-be-cut-into-sections) |
 | [3483-unique-3-digit-even-numbers](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/3483-unique-3-digit-even-numbers) |
@@ -415,6 +416,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 |  |
 | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/2094-finding-3-digit-even-numbers) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/3483-unique-3-digit-even-numbers) |
 | [3872-longest-arithmetic-sequence-after-changing-at-most-one-element](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/3872-longest-arithmetic-sequence-after-changing-at-most-one-element) |
 ## Euler's Totient Function
