@@ -72,6 +72,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0128-longest-consecutive-sequence) |
 | [0142-linked-list-cycle-ii](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0142-linked-list-cycle-ii) |
@@ -216,6 +217,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0072-edit-distance) |
@@ -408,6 +410,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0643-maximum-average-subarray-i) |
 | [0837-new-21-game](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0837-new-21-game) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
