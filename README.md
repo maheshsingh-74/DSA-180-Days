@@ -437,6 +437,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0145-binary-tree-postorder-traversal) |
 | [1306-jump-game-iii](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1306-jump-game-iii) |
 ## Combinatorics
 |  |
@@ -473,6 +474,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0402-remove-k-digits) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -508,8 +510,10 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
