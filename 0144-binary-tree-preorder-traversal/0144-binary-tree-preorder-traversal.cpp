@@ -12,25 +12,16 @@
  */
 class Solution {
 public:
+    void pre(TreeNode* root, vector<int>& ans) {
+        if (!root)
+            return;
+        ans.push_back(root->val);
+        pre(root->left, ans);
+        pre(root->right, ans);
+    }
     vector<int> preorderTraversal(TreeNode* root) {
         vector<int> ans;
-        if(root==nullptr) return {}; 
-        stack<TreeNode*> st;
-        st.push(root);
-        while (!st.empty()) {
-            TreeNode* temp = st.top();
-            st.pop();
-            ans.push_back(temp->val);
-            if (temp->right)
-                st.push(temp->right);
-
-            if (temp->left)
-                st.push(temp->left);
-        }
+        pre(root,ans);
         return ans;
     }
 };
-
-// Synced seamlessly with LeetHub Pro
-// Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
-// Get it here: https://chromewebstore.google.com/detail/bcilpkkbokcopmabingnndookdogmbna
