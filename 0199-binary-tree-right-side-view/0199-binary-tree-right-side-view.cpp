@@ -12,32 +12,20 @@
 class Solution {
 public:
     vector<int> rightSideView(TreeNode* root) {
-        vector<int> result;
-        if (root == nullptr) return result;
-        
-        queue<TreeNode*> q;
+        if(!root)return {};
+        queue<TreeNode *>q;
         q.push(root);
-        
-        while (!q.empty()) {
-            int n = q.size();
-            TreeNode* temp = nullptr;
-            
-            while (n--) {
-                temp = q.front();
+        vector<int>ans;
+        while(!q.empty()){
+            ans.push_back(q.front()->val);
+            int n= q.size();
+            while(n--){
+                TreeNode* temp=q.front();
                 q.pop();
-                
-                if (temp->left) q.push(temp->left);
-                if (temp->right) q.push(temp->right);
+                if(temp->right)q.push(temp->right);
+                if(temp->left)q.push(temp->left);
             }
-            
-            result.push_back(temp->val);
         }
-        
-        return result;
+        return ans;
     }
 };
-
-
-// Synced seamlessly with LeetHub Pro
-// Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
-// Get it here: https://chromewebstore.google.com/detail/bcilpkkbokcopmabingnndookdogmbna
