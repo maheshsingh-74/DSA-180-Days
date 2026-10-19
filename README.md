@@ -317,6 +317,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | [0226-invert-binary-tree](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0322-coin-change) |
 | [0513-find-bottom-left-tree-value](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0513-find-bottom-left-tree-value) |
+| [0662-maximum-width-of-binary-tree](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0662-maximum-width-of-binary-tree) |
 | [1306-jump-game-iii](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1306-jump-game-iii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## 0-1 Knapsack
@@ -452,6 +453,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | [0199-binary-tree-right-side-view](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0226-invert-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0513-find-bottom-left-tree-value) |
+| [0662-maximum-width-of-binary-tree](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0662-maximum-width-of-binary-tree) |
 | [1306-jump-game-iii](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1306-jump-game-iii) |
 ## Combinatorics
 |  |
@@ -533,6 +535,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | [0199-binary-tree-right-side-view](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0226-invert-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0513-find-bottom-left-tree-value) |
+| [0662-maximum-width-of-binary-tree](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0662-maximum-width-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -546,4 +549,5 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | [0199-binary-tree-right-side-view](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0226-invert-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0513-find-bottom-left-tree-value) |
+| [0662-maximum-width-of-binary-tree](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0662-maximum-width-of-binary-tree) |
 <!---LeetCode Topics End-->
