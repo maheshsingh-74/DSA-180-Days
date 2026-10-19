@@ -345,6 +345,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0222-count-complete-tree-nodes](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0222-count-complete-tree-nodes) |
 | [0300-longest-increasing-subsequence](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0300-longest-increasing-subsequence) |
 | [0729-my-calendar-i](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0731-my-calendar-ii) |
@@ -382,6 +383,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0222-count-complete-tree-nodes) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Matrix
 |  |
@@ -533,6 +535,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | [0144-binary-tree-preorder-traversal](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0226-invert-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0513-find-bottom-left-tree-value) |
 | [0662-maximum-width-of-binary-tree](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0662-maximum-width-of-binary-tree) |
@@ -547,6 +550,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | [0144-binary-tree-preorder-traversal](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0226-invert-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0513-find-bottom-left-tree-value) |
 | [0662-maximum-width-of-binary-tree](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0662-maximum-width-of-binary-tree) |
