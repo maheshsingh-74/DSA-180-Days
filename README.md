@@ -455,6 +455,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | [0199-binary-tree-right-side-view](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0226-invert-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0513-find-bottom-left-tree-value) |
+| [0543-diameter-of-binary-tree](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0662-maximum-width-of-binary-tree) |
 | [1306-jump-game-iii](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1306-jump-game-iii) |
 ## Combinatorics
@@ -538,6 +539,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | [0222-count-complete-tree-nodes](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0226-invert-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0513-find-bottom-left-tree-value) |
+| [0543-diameter-of-binary-tree](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0662-maximum-width-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -553,5 +555,10 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | [0222-count-complete-tree-nodes](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0226-invert-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0513-find-bottom-left-tree-value) |
+| [0543-diameter-of-binary-tree](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0662-maximum-width-of-binary-tree) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
