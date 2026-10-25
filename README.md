@@ -33,6 +33,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | [0455-assign-cookies](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0455-assign-cookies) |
 | [0474-ones-and-zeroes](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0494-target-sum) |
+| [0503-next-greater-element-ii](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0560-subarray-sum-equals-k) |
 | [0587-erect-the-fence](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0587-erect-the-fence) |
@@ -498,11 +499,13 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | [0145-binary-tree-postorder-traversal](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0402-remove-k-digits) |
+| [0503-next-greater-element-ii](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0503-next-greater-element-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0402-remove-k-digits) |
+| [0503-next-greater-element-ii](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0503-next-greater-element-ii) |
 ## Design
 |  |
 | ------- |
