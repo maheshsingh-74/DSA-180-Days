@@ -178,6 +178,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | [0234-palindrome-linked-list](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0455-assign-cookies) |
+| [0556-next-greater-element-iii](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0556-next-greater-element-iii) |
 | [0647-palindromic-substrings](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0680-valid-palindrome-ii) |
 | [0948-bag-of-tokens](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0948-bag-of-tokens) |
@@ -203,6 +204,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | [0357-count-numbers-with-unique-digits](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0357-count-numbers-with-unique-digits) |
 | [0372-super-pow](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0372-super-pow) |
 | [0509-fibonacci-number](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0509-fibonacci-number) |
+| [0556-next-greater-element-iii](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0556-next-greater-element-iii) |
 | [0587-erect-the-fence](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0587-erect-the-fence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0628-maximum-product-of-three-numbers) |
 | [0837-new-21-game](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0837-new-21-game) |
@@ -229,6 +231,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | [0451-sort-characters-by-frequency](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0451-sort-characters-by-frequency) |
 | [0474-ones-and-zeroes](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0516-longest-palindromic-subsequence) |
+| [0556-next-greater-element-iii](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0556-next-greater-element-iii) |
 | [0583-delete-operation-for-two-strings](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0680-valid-palindrome-ii) |
