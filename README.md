@@ -47,6 +47,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | [0731-my-calendar-ii](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0731-my-calendar-ii) |
 | [0948-bag-of-tokens](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0948-bag-of-tokens) |
 | [0956-tallest-billboard](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0956-tallest-billboard) |
+| [1019-next-greater-node-in-linked-list](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1019-next-greater-node-in-linked-list) |
 | [1048-longest-string-chain](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1048-longest-string-chain) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1232-check-if-it-is-a-straight-line) |
@@ -98,6 +99,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | [0142-linked-list-cycle-ii](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0328-odd-even-linked-list) |
+| [1019-next-greater-node-in-linked-list](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1019-next-greater-node-in-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Greedy
 |  |
@@ -504,11 +506,13 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | [0402-remove-k-digits](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0503-next-greater-element-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1019-next-greater-node-in-linked-list](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1019-next-greater-node-in-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0503-next-greater-element-ii) |
+| [1019-next-greater-node-in-linked-list](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1019-next-greater-node-in-linked-list) |
 ## Design
 |  |
 | ------- |
