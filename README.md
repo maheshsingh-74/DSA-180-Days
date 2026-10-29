@@ -45,6 +45,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | [0724-find-pivot-index](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0724-find-pivot-index) |
 | [0729-my-calendar-i](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0731-my-calendar-ii) |
+| [0739-daily-temperatures](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0739-daily-temperatures) |
 | [0948-bag-of-tokens](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0948-bag-of-tokens) |
 | [0956-tallest-billboard](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0956-tallest-billboard) |
 | [1019-next-greater-node-in-linked-list](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1019-next-greater-node-in-linked-list) |
@@ -505,6 +506,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | [0234-palindrome-linked-list](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0739-daily-temperatures) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1019-next-greater-node-in-linked-list](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1019-next-greater-node-in-linked-list) |
 ## Monotonic Stack
@@ -512,6 +514,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | ------- |
 | [0402-remove-k-digits](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0739-daily-temperatures) |
 | [1019-next-greater-node-in-linked-list](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1019-next-greater-node-in-linked-list) |
 ## Design
 |  |
