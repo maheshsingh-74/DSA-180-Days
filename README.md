@@ -507,6 +507,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | [0402-remove-k-digits](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1019-next-greater-node-in-linked-list](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1019-next-greater-node-in-linked-list) |
 ## Monotonic Stack
@@ -515,12 +516,14 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | [0402-remove-k-digits](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0901-online-stock-span) |
 | [1019-next-greater-node-in-linked-list](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1019-next-greater-node-in-linked-list) |
 ## Design
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0731-my-calendar-ii) |
+| [0901-online-stock-span](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0901-online-stock-span) |
 ## Segment Tree
 |  |
 | ------- |
@@ -580,4 +583,8 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0543-diameter-of-binary-tree) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
