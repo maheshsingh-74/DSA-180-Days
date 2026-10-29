@@ -201,6 +201,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | [0050-powx-n](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0070-climbing-stairs) |
+| [0224-basic-calculator](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0224-basic-calculator) |
 | [0258-add-digits](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0263-ugly-number) |
 | [0319-bulb-switcher](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0319-bulb-switcher) |
@@ -229,6 +230,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | [0072-edit-distance](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0125-valid-palindrome) |
+| [0224-basic-calculator](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0224-basic-calculator) |
 | [0387-first-unique-character-in-a-string](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0387-first-unique-character-in-a-string) |
 | [0402-remove-k-digits](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0451-sort-characters-by-frequency) |
@@ -284,6 +286,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0050-powx-n) |
+| [0224-basic-calculator](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0509-fibonacci-number) |
 | [2094-finding-3-digit-even-numbers](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/2094-finding-3-digit-even-numbers) |
@@ -503,6 +506,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0145-binary-tree-postorder-traversal) |
+| [0224-basic-calculator](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0503-next-greater-element-ii) |
