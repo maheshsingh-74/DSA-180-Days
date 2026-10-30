@@ -48,6 +48,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | [0739-daily-temperatures](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0739-daily-temperatures) |
 | [0948-bag-of-tokens](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0948-bag-of-tokens) |
 | [0956-tallest-billboard](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0956-tallest-billboard) |
+| [0962-maximum-width-ramp](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0962-maximum-width-ramp) |
 | [1019-next-greater-node-in-linked-list](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1019-next-greater-node-in-linked-list) |
 | [1048-longest-string-chain](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1048-longest-string-chain) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
@@ -185,6 +186,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | [0647-palindromic-substrings](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0680-valid-palindrome-ii) |
 | [0948-bag-of-tokens](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0948-bag-of-tokens) |
+| [0962-maximum-width-ramp](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0962-maximum-width-ramp) |
 | [1048-longest-string-chain](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1048-longest-string-chain) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1712-ways-to-split-array-into-three-subarrays](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1712-ways-to-split-array-into-three-subarrays) |
@@ -513,6 +515,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | [0739-daily-temperatures](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0962-maximum-width-ramp](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0962-maximum-width-ramp) |
 | [1019-next-greater-node-in-linked-list](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1019-next-greater-node-in-linked-list) |
 ## Monotonic Stack
 |  |
@@ -521,6 +524,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | [0503-next-greater-element-ii](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0901-online-stock-span) |
+| [0962-maximum-width-ramp](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0962-maximum-width-ramp) |
 | [1019-next-greater-node-in-linked-list](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1019-next-greater-node-in-linked-list) |
 ## Design
 |  |
