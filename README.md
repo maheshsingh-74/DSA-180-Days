@@ -26,6 +26,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0217-contains-duplicate) |
+| [0260-single-number-iii](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0300-longest-increasing-subsequence) |
@@ -406,6 +407,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | [0136-single-number](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0137-single-number-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0222-count-complete-tree-nodes) |
+| [0260-single-number-iii](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0268-missing-number) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Matrix
