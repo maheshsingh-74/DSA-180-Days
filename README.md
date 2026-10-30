@@ -24,6 +24,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0322-coin-change) |
@@ -82,6 +83,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | [0142-linked-list-cycle-ii](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0451-sort-characters-by-frequency) |
@@ -135,6 +137,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | [0075-sort-colors](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0451-sort-characters-by-frequency) |
@@ -206,6 +209,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | [0224-basic-calculator](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0224-basic-calculator) |
 | [0258-add-digits](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0319-bulb-switcher) |
 | [0357-count-numbers-with-unique-digits](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0357-count-numbers-with-unique-digits) |
 | [0372-super-pow](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0372-super-pow) |
@@ -359,6 +363,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0300-longest-increasing-subsequence) |
 | [0729-my-calendar-i](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0731-my-calendar-ii) |
@@ -397,6 +402,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0268-missing-number) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Matrix
 |  |
