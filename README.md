@@ -65,6 +65,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/2094-finding-3-digit-even-numbers) |
 | [2270-number-of-ways-to-split-array](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/2270-number-of-ways-to-split-array) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -409,6 +410,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | [0222-count-complete-tree-nodes](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0222-count-complete-tree-nodes) |
 | [0260-single-number-iii](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0268-missing-number) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Matrix
 |  |
