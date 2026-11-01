@@ -60,6 +60,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1306-jump-game-iii](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1306-jump-game-iii) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1712-ways-to-split-array-into-three-subarrays](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1712-ways-to-split-array-into-three-subarrays) |
@@ -456,6 +457,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | [0003-longest-substring-without-repeating-characters](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0643-maximum-average-subarray-i) |
 | [0837-new-21-game](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0837-new-21-game) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Probability and Statistics
 |  |
