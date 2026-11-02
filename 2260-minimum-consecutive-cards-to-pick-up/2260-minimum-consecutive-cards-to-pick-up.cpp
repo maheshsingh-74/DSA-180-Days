@@ -1,21 +1,17 @@
 class Solution {
 public:
     int minimumCardPickup(vector<int>& cards) {
+        unordered_map<int, int> last;
         int result = INT_MAX;
-        int l = 0;
-        int n = cards.size();
-        unordered_set<int> st;
-        for (int i = 0; i < n; i++) {
-            while (st.contains(cards[i])) {
-                st.erase(cards[l]);
-                l++;
-             result = min(result, (int)st.size() + 2);
+
+        for (int i = 0; i < cards.size(); i++) {
+            if (last.count(cards[i])) {
+                result = min(result, i - last[cards[i]] + 1);
             }
-            st.insert(cards[i]);
-           
+
+            last[cards[i]] = i;
         }
-        if (result == INT_MAX)
-            return -1;
-        return result;
+
+        return result == INT_MAX ? -1 : result;
     }
 };
