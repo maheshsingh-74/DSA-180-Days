@@ -98,6 +98,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | [0451-sort-characters-by-frequency](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0451-sort-characters-by-frequency) |
 | [0454-4sum-ii](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0454-4sum-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0621-task-scheduler) |
 | [1048-longest-string-chain](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1048-longest-string-chain) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -199,6 +200,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | [0283-move-zeroes](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0455-assign-cookies) |
 | [0556-next-greater-element-iii](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0556-next-greater-element-iii) |
+| [0567-permutation-in-string](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0680-valid-palindrome-ii) |
 | [0948-bag-of-tokens](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0948-bag-of-tokens) |
@@ -256,6 +258,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | [0474-ones-and-zeroes](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0516-longest-palindromic-subsequence) |
 | [0556-next-greater-element-iii](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0556-next-greater-element-iii) |
+| [0567-permutation-in-string](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0680-valid-palindrome-ii) |
@@ -459,6 +462,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0567-permutation-in-string](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0643-maximum-average-subarray-i) |
 | [0837-new-21-game](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0837-new-21-game) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
