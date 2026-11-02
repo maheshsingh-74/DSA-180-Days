@@ -67,6 +67,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | [1991-find-the-middle-index-in-array](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1991-find-the-middle-index-in-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/2094-finding-3-digit-even-numbers) |
+| [2260-minimum-consecutive-cards-to-pick-up](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2270-number-of-ways-to-split-array](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/2270-number-of-ways-to-split-array) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -100,6 +101,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | [1048-longest-string-chain](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1048-longest-string-chain) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2094-finding-3-digit-even-numbers](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/2094-finding-3-digit-even-numbers) |
+| [2260-minimum-consecutive-cards-to-pick-up](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/3483-unique-3-digit-even-numbers) |
@@ -458,6 +460,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | [0643-maximum-average-subarray-i](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0643-maximum-average-subarray-i) |
 | [0837-new-21-game](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0837-new-21-game) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [2260-minimum-consecutive-cards-to-pick-up](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Probability and Statistics
 |  |
