@@ -39,6 +39,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | [0454-4sum-ii](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0454-4sum-ii) |
 | [0455-assign-cookies](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0455-assign-cookies) |
 | [0474-ones-and-zeroes](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0474-ones-and-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0494-target-sum) |
 | [0503-next-greater-element-ii](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0518-coin-change-ii) |
