@@ -64,6 +64,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | [1306-jump-game-iii](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1306-jump-game-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1712-ways-to-split-array-into-three-subarrays](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1712-ways-to-split-array-into-three-subarrays) |
@@ -305,6 +306,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | [1143-longest-common-subsequence](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [3524-find-x-value-of-array-i](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/3524-find-x-value-of-array-i) |
 ## Recursion
 |  |
@@ -472,6 +474,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | [0837-new-21-game](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0837-new-21-game) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Probability and Statistics
