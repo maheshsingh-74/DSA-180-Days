@@ -68,6 +68,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1695-maximum-erasure-value](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1695-maximum-erasure-value) |
 | [1712-ways-to-split-array-into-three-subarrays](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1712-ways-to-split-array-into-three-subarrays) |
 | [1991-find-the-middle-index-in-array](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1991-find-the-middle-index-in-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -107,6 +108,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | [0904-fruit-into-baskets](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0904-fruit-into-baskets) |
 | [1048-longest-string-chain](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1048-longest-string-chain) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1695-maximum-erasure-value](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1695-maximum-erasure-value) |
 | [2094-finding-3-digit-even-numbers](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/2094-finding-3-digit-even-numbers) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -478,6 +480,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1695-maximum-erasure-value](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1695-maximum-erasure-value) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Probability and Statistics
