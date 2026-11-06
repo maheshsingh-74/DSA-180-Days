@@ -107,6 +107,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | [0621-task-scheduler](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0621-task-scheduler) |
 | [0904-fruit-into-baskets](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0904-fruit-into-baskets) |
 | [1048-longest-string-chain](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1048-longest-string-chain) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1695-maximum-erasure-value](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1695-maximum-erasure-value) |
 | [2094-finding-3-digit-even-numbers](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/2094-finding-3-digit-even-numbers) |
@@ -274,6 +275,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | [1048-longest-string-chain](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1048-longest-string-chain) |
 | [1143-longest-common-subsequence](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/2193-minimum-number-of-moves-to-make-palindrome) |
 | [3498-reverse-degree-of-a-string](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/3498-reverse-degree-of-a-string) |
@@ -478,6 +480,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | [0837-new-21-game](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0837-new-21-game) |
 | [0904-fruit-into-baskets](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0904-fruit-into-baskets) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1695-maximum-erasure-value](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1695-maximum-erasure-value) |
