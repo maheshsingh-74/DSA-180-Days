@@ -97,6 +97,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | [0142-linked-list-cycle-ii](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0217-contains-duplicate) |
+| [0264-ugly-number-ii](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0387-first-unique-character-in-a-string) |
@@ -233,6 +234,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | [0224-basic-calculator](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0224-basic-calculator) |
 | [0258-add-digits](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0263-ugly-number) |
+| [0264-ugly-number-ii](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0319-bulb-switcher) |
 | [0357-count-numbers-with-unique-digits](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0357-count-numbers-with-unique-digits) |
@@ -294,6 +296,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0152-maximum-product-subarray) |
+| [0264-ugly-number-ii](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0264-ugly-number-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0322-coin-change) |
 | [0357-count-numbers-with-unique-digits](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0357-count-numbers-with-unique-digits) |
@@ -534,6 +537,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0621-task-scheduler) |
