@@ -111,6 +111,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1695-maximum-erasure-value](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1695-maximum-erasure-value) |
+| [2062-count-vowel-substrings-of-a-string](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2094-finding-3-digit-even-numbers](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/2094-finding-3-digit-even-numbers) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -281,6 +282,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1839-longest-substring-of-all-vowels-in-order) |
+| [2062-count-vowel-substrings-of-a-string](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/2193-minimum-number-of-moves-to-make-palindrome) |
 | [3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/3498-reverse-degree-of-a-string) |
