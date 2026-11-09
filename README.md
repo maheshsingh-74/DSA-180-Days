@@ -55,6 +55,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | [0731-my-calendar-ii](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0731-my-calendar-ii) |
 | [0739-daily-temperatures](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0739-daily-temperatures) |
 | [0904-fruit-into-baskets](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0930-binary-subarrays-with-sum) |
 | [0948-bag-of-tokens](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0948-bag-of-tokens) |
 | [0956-tallest-billboard](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0956-tallest-billboard) |
 | [0962-maximum-width-ramp](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0962-maximum-width-ramp) |
@@ -107,6 +108,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | [0567-permutation-in-string](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0621-task-scheduler) |
 | [0904-fruit-into-baskets](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0930-binary-subarrays-with-sum) |
 | [1048-longest-string-chain](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1048-longest-string-chain) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -416,6 +418,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | [0560-subarray-sum-equals-k](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0724-find-pivot-index) |
 | [0731-my-calendar-ii](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0731-my-calendar-ii) |
+| [0930-binary-subarrays-with-sum](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0930-binary-subarrays-with-sum) |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1712-ways-to-split-array-into-three-subarrays](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1712-ways-to-split-array-into-three-subarrays) |
@@ -487,6 +490,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | [0643-maximum-average-subarray-i](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0643-maximum-average-subarray-i) |
 | [0837-new-21-game](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0837-new-21-game) |
 | [0904-fruit-into-baskets](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0930-binary-subarrays-with-sum) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
