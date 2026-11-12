@@ -61,6 +61,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | [0962-maximum-width-ramp](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0962-maximum-width-ramp) |
 | [1019-next-greater-node-in-linked-list](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1019-next-greater-node-in-linked-list) |
 | [1048-longest-string-chain](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1048-longest-string-chain) |
+| [1049-last-stone-weight-ii](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1049-last-stone-weight-ii) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1306-jump-game-iii](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1306-jump-game-iii) |
@@ -319,6 +320,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | [0940-distinct-subsequences-ii](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0940-distinct-subsequences-ii) |
 | [0956-tallest-billboard](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0956-tallest-billboard) |
 | [1048-longest-string-chain](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1048-longest-string-chain) |
+| [1049-last-stone-weight-ii](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1049-last-stone-weight-ii) |
 | [1143-longest-common-subsequence](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
@@ -347,6 +349,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | [0494-target-sum](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0518-coin-change-ii) |
 | [0956-tallest-billboard](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0956-tallest-billboard) |
+| [1049-last-stone-weight-ii](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1049-last-stone-weight-ii) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -380,6 +383,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | [0474-ones-and-zeroes](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0494-target-sum) |
 | [0956-tallest-billboard](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0956-tallest-billboard) |
+| [1049-last-stone-weight-ii](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1049-last-stone-weight-ii) |
 ## Meet in the Middle
 |  |
 | ------- |
