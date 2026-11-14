@@ -12,6 +12,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | [0015-3sum](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0031-next-permutation) |
+| [0041-first-missing-positive](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0055-jump-game) |
@@ -95,6 +96,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | ------- |
 | [0001-two-sum](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0041-first-missing-positive](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0128-longest-consecutive-sequence) |
 | [0142-linked-list-cycle-ii](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0142-linked-list-cycle-ii) |
