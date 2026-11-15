@@ -61,6 +61,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | [0948-bag-of-tokens](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0948-bag-of-tokens) |
 | [0956-tallest-billboard](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0956-tallest-billboard) |
 | [0962-maximum-width-ramp](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0962-maximum-width-ramp) |
+| [1001-grid-illumination](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1001-grid-illumination) |
 | [1019-next-greater-node-in-linked-list](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1019-next-greater-node-in-linked-list) |
 | [1048-longest-string-chain](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1048-longest-string-chain) |
 | [1049-last-stone-weight-ii](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1049-last-stone-weight-ii) |
@@ -113,6 +114,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | [0621-task-scheduler](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0621-task-scheduler) |
 | [0904-fruit-into-baskets](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0930-binary-subarrays-with-sum) |
+| [1001-grid-illumination](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1001-grid-illumination) |
 | [1048-longest-string-chain](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1048-longest-string-chain) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
