@@ -76,6 +76,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | [1695-maximum-erasure-value](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1695-maximum-erasure-value) |
 | [1712-ways-to-split-array-into-three-subarrays](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1712-ways-to-split-array-into-three-subarrays) |
 | [1991-find-the-middle-index-in-array](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1991-find-the-middle-index-in-array) |
+| [2090-k-radius-subarray-averages](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/2090-k-radius-subarray-averages) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/2094-finding-3-digit-even-numbers) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
@@ -510,6 +511,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1695-maximum-erasure-value](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1695-maximum-erasure-value) |
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1839-longest-substring-of-all-vowels-in-order) |
+| [2090-k-radius-subarray-averages](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/2090-k-radius-subarray-averages) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
