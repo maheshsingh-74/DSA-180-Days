@@ -1,30 +1,17 @@
 class Solution {
 public:
     void nextPermutation(vector<int>& nums) {
-        int idx=-1;
-        int n= nums.size();
-        for(int j=n-1;j>=1;j--){
-            if(nums[j]>nums[j-1]) {
-                idx=j-1;
-                break;
-            }
+        int n = nums.size();
+        int i = n - 2;
+
+        while (i >= 0 && nums[i] >= nums[i + 1]) i--;
+
+        if (i >= 0) {
+            int j = n - 1;
+            while (nums[j] <= nums[i]) j--;  
+            swap(nums[i], nums[j]);
         }
-        int swapidx=idx;
-        if(idx!=-1){
-      for(int j=n-1;j>=idx+1;j--){
-        if(nums[j]>nums[idx]){ swapidx=j; 
-      break;}
-      }
-    
-      swap(nums[swapidx],nums[idx]);
-        }
-        
-            reverse(begin(nums)+idx+1,end(nums));
-        
-        
+
+        reverse(nums.begin() + i + 1, nums.end());
     }
 };
-
-// Synced seamlessly with LeetHub Pro
-// Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
-// Get it here: https://chromewebstore.google.com/detail/bcilpkkbokcopmabingnndookdogmbna
