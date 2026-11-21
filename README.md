@@ -295,6 +295,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | [2062-count-vowel-substrings-of-a-string](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/2193-minimum-number-of-moves-to-make-palindrome) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/3498-reverse-degree-of-a-string) |
 ## Dynamic Programming
@@ -368,6 +369,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | ------- |
 | [0357-count-numbers-with-unique-digits](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0357-count-numbers-with-unique-digits) |
 | [0494-target-sum](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0494-target-sum) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -460,6 +462,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | [0260-single-number-iii](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0268-missing-number) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Matrix
 |  |
