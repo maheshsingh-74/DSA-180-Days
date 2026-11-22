@@ -293,6 +293,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1839-longest-substring-of-all-vowels-in-order) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/2062-count-vowel-substrings-of-a-string) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/2193-minimum-number-of-moves-to-make-palindrome) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
