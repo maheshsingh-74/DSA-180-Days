@@ -87,6 +87,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/2952-minimum-number-of-coins-to-be-added) |
 | [3394-check-if-grid-can-be-cut-into-sections](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/3394-check-if-grid-can-be-cut-into-sections) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/3524-find-x-value-of-array-i) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -260,6 +261,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | [1232-check-if-it-is-a-straight-line](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/1401-circle-and-rectangle-overlapping) |
 | [2591-distribute-money-to-maximum-children](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/2591-distribute-money-to-maximum-children) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3524-find-x-value-of-array-i](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/3524-find-x-value-of-array-i) |
 | [3870-count-commas-in-range](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/3871-count-commas-in-range-ii) |
@@ -494,6 +496,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/0258-add-digits) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Brainteaser
 |  |
 | ------- |
@@ -520,6 +523,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Probability and Statistics
 |  |
 | ------- |
@@ -529,6 +533,7 @@ Tracking my progress on LeetCode and GeeksforGeeks!
 | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/2094-finding-3-digit-even-numbers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/3483-unique-3-digit-even-numbers) |
 | [3872-longest-arithmetic-sequence-after-changing-at-most-one-element](https://github.com/maheshsingh-74/DSA-180-Days/tree/master/3872-longest-arithmetic-sequence-after-changing-at-most-one-element) |
 ## Euler's Totient Function
