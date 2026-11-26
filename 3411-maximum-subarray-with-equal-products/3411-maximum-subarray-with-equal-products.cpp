@@ -1,7 +1,7 @@
 class Solution {
 public:
     int maxLength(vector<int>& nums) {
-        int best = 2, left = 0, product = 1;
+         int best = 2, left = 0, product = 1;
         for (int right = 0; right < ssize(nums); ++right) {
             int x = nums[right];
             while (gcd(product, x) > 1)
@@ -9,6 +9,6 @@ public:
             product *= x;
             best = max(best, right - left + 1);
         }
-        return best;
+        return best; //yess
     }
 };
